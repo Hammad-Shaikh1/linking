@@ -1,0 +1,16 @@
+body{
+    background-color: aqua;
+}
+
+h1{
+    text-align: center;
+}
+
+.page{
+    margin: 10px;
+    
+}
+
+:hover{
+    text-decoration: underline;
+}
