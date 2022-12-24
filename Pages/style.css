@@ -1,0 +1,21 @@
+body{
+    background-color: cyan;
+}
+
+h1{
+    text-align: center;
+    color: blue;
+    font-style: italic;
+    font-weight:900;
+
+}
+
+#button{
+    margin-left: 20px;
+    font-size: xx-large;
+}
+
+
+p{
+
+}
